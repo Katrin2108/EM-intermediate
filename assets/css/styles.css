@@ -98,8 +98,8 @@ h3{
     font-size: 30px;
     font-family:"ArchyEDT-Thin";
     color: #707070;
-    text-decoration: underline;
     margin-top: 56px;
+    text-decoration: underline;
 }
 .card-section2{
     width: 84.4%;
@@ -113,6 +113,9 @@ h4 {
     color: #707070;
     font-family:"ArchyEDT-Thin";
     margin-top: 73px;
+}
+h5{
+    display: none;
 }
 footer{
     width: 100%;
@@ -132,6 +135,9 @@ footer{
     display: flex;
     gap: 34.10px;
 }
+.footer-img2{
+    display: none;
+}
 footer li{
     text-decoration: none;
     list-style-type: none;
@@ -148,13 +154,31 @@ footer li{
     .photo-vocalist{
         width: 100%;
     }
+    .image-tittle{
+        display: none;
+    }
+    .image-tittle2 {
+        width: 100%;
+        display: inline-flex;
+    }
     .card-section1{
         width: 100%;
         display: grid;
     }
+    .delitm{
+        display: none;
+    }
     .card-section2{
         width: 100%;
         display: grid;
+    }
+    h5{
+        display: flex;
+        font-size: 30px;
+        font-family:"ArchyEDT-Thin";
+        color: #707070;
+        margin-top: 56px;
+        text-decoration: underline;
     }
     footer{
         width: 100%;
@@ -174,9 +198,19 @@ footer li{
     .photo-vocalist{
         width: 100%;
     }
+    .image-tittle{
+        display: none;
+    }
+    .image-tittle2 {
+        width: 100%;
+        display: inline-flex;
+    }
     .card-section1{
         width: 100%;
         display: grid;
+    }
+    .delitm{
+        display: none;
     }
     .card-section2{
         width: 100%;
@@ -201,9 +235,19 @@ footer li{
     .photo-vocalist{
         width: 100%;
     }
+    .image-tittle{
+        display: none;
+    }
+    .image-tittle2 {
+        width: 100%;
+        display: inline-flex;
+    }
     .card-section1{
         width: 100%;
         display: grid;
+    }
+    .delitm{
+        display: none;
     }
     .card-section2{
         width: 100%;
@@ -227,9 +271,19 @@ footer li{
     .photo-vocalist{
         width: 100%;
     }
+    .image-tittle{
+        display: none;
+    }
+    .image-tittle2 {
+        width: 100%;
+        display: inline-flex;
+    }
     .card-section1{
         width: 100%;
         display: grid;
+    }
+    .delitm{
+        display: none;
     }
     .card-section2{
         width: 100%;
