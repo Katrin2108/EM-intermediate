@@ -141,8 +141,27 @@ footer{
 footer li{
     text-decoration: none;
     list-style-type: none;
+    list-style: none;
     color: #F2F2F2;
     font-family:"ArchyEDT-Thin" ;
+}
+.addres-title :hover{
+    background-color: purple;
+}
+.addres-title{
+    transition-property: all;
+    transition-delay: 1s;
+    transition-duration: 2s;
+    transition-timing-function: step-start;
+}
+.contact-title :hover{
+    background-color: purple;
+}
+.contact-title {
+    transition-property: all;
+    transition-delay: 1s;
+    transition-duration: 2s;
+    transition-timing-function: step-start;
 }
 .size-det{
     font-size: 13px;
