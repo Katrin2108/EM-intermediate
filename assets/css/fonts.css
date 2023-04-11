@@ -1,0 +1,20 @@
+@font-face {
+    font-family:"ArchyEDT";
+    src: url(../fonts/ArchyEDT-Thin.eot) format("embedded-opentype");
+    src: url(../fonts/ArchyEDT-Thin.ttf) format("truetype");
+    src:url(../fonts/ArchyEDT-Thin.woff) format("woff");
+    src: url(../fonts/ArchyEDT-Thin.woff2) format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family:"ZapfDingbats Regular";
+    src: url(../fonts/ZapfDingbats.eot) format("embedded-opentype");
+    src: url(../fonts/ZapfDingbats.ttf) format("truetype");
+    src: url(../fonts/ZapfDingbats.woff) format("woff");
+    src: url(../fonts/ZapfDingbats.woff2) format(woff2);
+    font-size: normal;
+    font-style: normal;
+    font-display: normal;
+}
