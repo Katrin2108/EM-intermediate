@@ -21,13 +21,15 @@ header ul {
     display: flex;
     gap: 27px;
     list-style-type: none;
+    opacity: 100%;
 }
 header ul a {
     text-decoration: none;
     color: #707070;
     font-size: 20px;
-    font-family:"ArchyEDT-Thin",serif;
+    font-family:"ArchyEDT-Thin";
     letter-spacing: 0.2px;
+    border-color: #707070;
 }
 .photo-vocalist{
    display: flex;
@@ -62,7 +64,7 @@ h1 {
 .card-section1{
     width: 84.4%;
     display: flex;
-    gap: 25px;
+    gap: 95.5px;
     margin-top: 35px;
 }
  .card {
@@ -112,7 +114,7 @@ h3{
 .card-section2{
     width: 84.4%;
     display: flex;
-    gap: 25px;
+    gap: 95.5px;
     margin-top: 35px;
 }
 h4 {
